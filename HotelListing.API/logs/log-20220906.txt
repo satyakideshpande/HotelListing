@@ -1,0 +1,5 @@
+2022-09-06 15:18:46.192 +05:30 [INF] Now listening on: https://localhost:7186
+2022-09-06 15:18:46.255 +05:30 [INF] Now listening on: http://localhost:5099
+2022-09-06 15:18:46.261 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 15:18:46.262 +05:30 [INF] Hosting environment: Development
+2022-09-06 15:18:46.262 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/

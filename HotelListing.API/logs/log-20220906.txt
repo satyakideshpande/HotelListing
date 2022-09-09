@@ -1,0 +1,20 @@
+2022-09-06 15:18:46.192 +05:30 [INF] Now listening on: https://localhost:7186
+2022-09-06 15:18:46.255 +05:30 [INF] Now listening on: http://localhost:5099
+2022-09-06 15:18:46.261 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 15:18:46.262 +05:30 [INF] Hosting environment: Development
+2022-09-06 15:18:46.262 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/
+2022-09-06 15:28:37.257 +05:30 [INF] Now listening on: https://localhost:7186
+2022-09-06 15:28:37.322 +05:30 [INF] Now listening on: http://localhost:5099
+2022-09-06 15:28:37.329 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 15:28:37.329 +05:30 [INF] Hosting environment: Development
+2022-09-06 15:28:37.330 +05:30 [INF] Content root path: /Users/apple/Desktop/GithubHotelListing/HotelListing.API/
+2022-09-06 15:29:08.228 +05:30 [INF] Now listening on: https://localhost:7186
+2022-09-06 15:29:08.300 +05:30 [INF] Now listening on: http://localhost:5099
+2022-09-06 15:29:08.308 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 15:29:08.309 +05:30 [INF] Hosting environment: Development
+2022-09-06 15:29:08.309 +05:30 [INF] Content root path: /Users/apple/Desktop/GithubHotelListing/HotelListing.API/
+2022-09-06 23:10:58.913 +05:30 [INF] Now listening on: https://localhost:7186
+2022-09-06 23:10:58.989 +05:30 [INF] Now listening on: http://localhost:5099
+2022-09-06 23:10:58.997 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-06 23:10:58.998 +05:30 [INF] Hosting environment: Development
+2022-09-06 23:10:58.998 +05:30 [INF] Content root path: /Users/apple/Desktop/GithubHotelListing/HotelListing.API/

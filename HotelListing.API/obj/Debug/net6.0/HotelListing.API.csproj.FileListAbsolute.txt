@@ -1,0 +1,88 @@
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/appsettings.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.deps.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.runtimeconfig.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.pdb
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.AssemblyReference.cache
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.AssemblyInfoInputs.cache
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.AssemblyInfo.cs
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/scopedcss/bundle/HotelListing.API.styles.css
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.CopyComplete
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/refint/HotelListing.API.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.pdb
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.genruntimeconfig.cache
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/obj/Debug/net6.0/ref/HotelListing.API.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Expressions.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
+/Users/apple/Documents/Satyaki/Full Stack Development/API /HotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Seq.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/appsettings.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.deps.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.runtimeconfig.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/HotelListing.API.pdb
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Expressions.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Serilog.Sinks.Seq.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.AssemblyReference.cache
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.AssemblyInfoInputs.cache
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.AssemblyInfo.cs
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/scopedcss/bundle/HotelListing.API.styles.css
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.csproj.CopyComplete
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/refint/HotelListing.API.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.pdb
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/HotelListing.API.genruntimeconfig.cache
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/obj/Debug/net6.0/ref/HotelListing.API.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Npgsql.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Humanizer.dll
+/Users/apple/Desktop/GithubHotelListing/HotelListing.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll

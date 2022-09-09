@@ -5,7 +5,7 @@ namespace HotelListing.API
 	{
 		public temp()
 		{
-			Console.WriteLine("Github code push")
+			Console.WriteLine("Github code pushed done !");
 		}
 	}
 }

@@ -1,0 +1,60 @@
+2022-10-02 07:06:03.986 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 07:06:04.189 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 07:06:04.191 +05:30 [INF] Hosting environment: Development
+2022-10-02 07:06:04.192 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 07:06:05.631 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 07:10:17.216 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 07:10:17.316 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 07:10:17.317 +05:30 [INF] Hosting environment: Development
+2022-10-02 07:10:17.317 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 07:10:18.610 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 07:11:23.579 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 07:11:23.705 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 07:11:23.705 +05:30 [INF] Hosting environment: Development
+2022-10-02 07:11:23.706 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 07:11:24.793 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 07:31:47.845 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 07:31:47.987 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 07:31:47.988 +05:30 [INF] Hosting environment: Development
+2022-10-02 07:31:47.988 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 07:31:49.600 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 07:59:46.740 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 07:59:46.886 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 07:59:46.887 +05:30 [INF] Hosting environment: Development
+2022-10-02 07:59:46.887 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 07:59:48.135 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:32:19.160 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:32:19.268 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:32:19.268 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:32:19.269 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:32:21.224 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:34:10.600 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:34:10.716 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:34:10.717 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:34:10.718 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:34:12.063 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:34:36.340 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:34:36.541 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:34:36.543 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:34:36.544 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:34:37.971 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:35:03.441 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:35:03.542 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:35:03.543 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:35:03.544 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:35:04.829 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:35:31.945 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:35:32.044 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:35:32.045 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:35:32.045 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:35:33.326 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 08:37:33.617 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 08:37:33.722 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 08:37:33.723 +05:30 [INF] Hosting environment: Development
+2022-10-02 08:37:33.724 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 08:37:34.988 +05:30 [WRN] Failed to determine the https port for redirect.
+2022-10-02 15:19:48.698 +05:30 [INF] Now listening on: http://localhost:28523
+2022-10-02 15:19:48.826 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 15:19:48.827 +05:30 [INF] Hosting environment: Development
+2022-10-02 15:19:48.827 +05:30 [INF] Content root path: /Users/apple/Documents/Satyaki/Full Stack Development/GithubHotelListing/HotelListing.API/
+2022-10-02 15:19:50.926 +05:30 [WRN] Failed to determine the https port for redirect.

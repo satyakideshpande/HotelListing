@@ -7,7 +7,7 @@ namespace HotelListing.API.DTO.Country
     {
         public int Id { get; set; }
 
-        public List<GetHotelDTO> Hotels { get; set; }
+        public List<HotelDTO> Hotels { get; set; }
 
     }
 }

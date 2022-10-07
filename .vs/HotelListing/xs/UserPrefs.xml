@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{7AA12363-547F-4B13-A2DC-B7CA10679805}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Controllers/HotelsController.cs">
     <Files>
-      <File FileName="HotelListing.API/Repository/CountriesRepository.cs" Line="10" Column="15" />
-      <File FileName="HotelListing.API/IRepository(Contracts)/ICountriesRepository.cs" Line="13" Column="1" />
-      <File FileName="HotelListing.API/IRepository(Contracts)/IGenericRepository.cs" Line="4" Column="37" />
-      <File FileName="HotelListing.API/Repository/GenericRepository.cs" Line="44" Column="28" />
-      <File FileName="HotelListing.API/Controllers/CountriesController.cs" Line="51" Column="33" />
-      <File FileName="HotelListing.API/Program.cs" Line="40" Column="65" />
+      <File FileName="HotelListing.API/Controllers/HotelsController.cs" Line="76" Column="1" />
+      <File FileName="HotelListing.API/IRepository(Contracts)/IHotelRepository.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/Repository/HotelRepository.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/DTO/Hotel/GetHotelDTO.cs" Line="11" Column="1" />
+      <File FileName="HotelListing.API/DTO/Hotel/BaseHotelDto.cs" Line="1" Column="1" />
+      <File FileName="HotelListing.API/DTO/Hotel/CreateHotelDto.cs" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,9 @@
               <Node name="Controllers" expanded="True" />
               <Node name="DTO" expanded="True">
                 <Node name="Country" expanded="True" />
-                <Node name="Hotel" expanded="True" />
+                <Node name="Hotel" expanded="True">
+                  <Node name="CreateHotelDto.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="IRepository(Contracts)" expanded="True" />
               <Node name="Repository" expanded="True" />
@@ -25,16 +27,13 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

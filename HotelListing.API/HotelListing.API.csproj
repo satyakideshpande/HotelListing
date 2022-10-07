@@ -49,4 +49,9 @@
     <Folder Include="Repository\" />
     <Folder Include="IRepository%28Contracts%29\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Controllers\CountriesController.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
 </Project>
